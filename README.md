@@ -122,20 +122,20 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohamedmagoor&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedmagoor&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mohamedmagoor&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mohamedmagoor/mohamedmagoor/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 <div align="center">
