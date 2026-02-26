@@ -10,7 +10,7 @@
     <a href="https://drive.google.com/file/d/1IkGQcLYoivWgMAX8P-boE9UjRgwxQc7n/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/RESUME-202124?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
     </a>
-    <a href="https://ameeenmv.netlify.app" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/mohamed-magoor/" target="_blank">
@@ -21,7 +21,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=ameenmv&label=PROFILE%20VIEWS&color=42b883&style=flat-square" alt="AMEEN MOHAMED" />
+  <img src="https://komarev.com/ghpvc/?username=ameenmv&label=PROFILE%20VIEWS&color=42b883&style=flat-square" alt="MOHAMED" />
 </div>
 
 ---
