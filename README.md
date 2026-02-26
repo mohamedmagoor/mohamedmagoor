@@ -27,9 +27,9 @@
 ---
 
 ###  About Me
--  I’m currently working as a **Frontend Developer at neop**, focusing on Vue.js and Nuxt.js.
--  CS Student at **Mansoura University**, focusing on Software Engineering.
--  **Leadership**: Serving as **Frontend Head @CIS Team** and **Frontend Vice Head @CAT Reloaded**.
+-  I’m currently working as a **Frontend Developer at Azzrk**, focusing on React.js and Next.js.
+-  BIS Student at **Tanta University**
+-  **ITI ITI Graduate, Cross-Platform & Frontend Development Track**.
 
 ---
 
