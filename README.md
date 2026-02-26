@@ -50,11 +50,7 @@
   <img src="https://img.shields.io/badge/Twig-8CA1AF?style=flat-square&logo=symfony&logoColor=white" height="25" />
 </div>
 
-#### 🧪 Data Science & AI
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn" height="40" alt="Data Science" />
-  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat-square" height="25" />
-</div>
+
 
 #### 🛠️ Professional Tools
 <div align="left">
