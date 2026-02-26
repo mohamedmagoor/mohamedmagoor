@@ -29,7 +29,7 @@
 ###  About Me
 -  I’m currently working as a **Frontend Developer at Azzrk**, focusing on React.js and Next.js.
 -  BIS Student at **Tanta University**
--  **ITI ITI Graduate, Cross-Platform & Frontend Development Track**.
+-  **ITI Graduate, Cross-Platform & Frontend Development Track**.
 
 ---
 
