@@ -45,7 +45,7 @@
 
 #### ⚙️ Backend & Database
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postman" height="40" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=flask,python,mysql,postman" height="40" alt="Backend" />
   <img src="https://img.shields.io/badge/Web_Services_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Twig-8CA1AF?style=flat-square&logo=symfony&logoColor=white" height="25" />
 </div>
