@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ameen+Mohamed;Software+Engineer;Frontend+Specialist+%7C+Vue.js;Building+Scalable+Web+Apps" alt="Typing SVG" /> 
 
   <p align="center"> 
-     <b>Frontend Developer @neop</b> | Passionate about creating high-performance web applications. <br>
-     Computer Science Student | <b>Mansoura University</b>.
+     <b>Frontend Developer @Azzrk</b> | Passionate about creating high-performance web applications. <br>
+      Business Information Systems (BIS) Student | <b>Tanta University</b>.
   </p> 
 
   <p>
