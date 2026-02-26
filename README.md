@@ -1,19 +1,98 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed Magoor</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ameen+Mohamed;Software+Engineer;Frontend+Specialist+%7C+Vue.js;Building+Scalable+Web+Apps" alt="Typing SVG" /> 
 
-- 📫 How to reach me **mohamedmagoor6@gmail.com**
+  <p align="center"> 
+     <b>Frontend Developer @neop</b> | Passionate about creating high-performance web applications. <br>
+     Computer Science Student | <b>Mansoura University</b>.
+  </p> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@mohamedmagoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mohamedmagoor" height="30" width="40" /></a>
-<a href="https://twitter.com/alexaner_vk22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexaner_vk22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-magoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-magoor" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed magoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed magoor" height="30" width="40" /></a>
-<a href="https://instagram.com/magoor_vk22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magoor_vk22" height="30" width="40" /></a>
-<a href="https://medium.com/@mohamedmagoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedmagoor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chilli web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chilli web" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamedmagoor6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedmagoor6" height="30" width="40" /></a>
-</p>
+  <p>
+    <a href="https://drive.google.com/file/d/1jIH_XrTvsft4a1tsWeX8O_it6idT6OJF/view?usp=drive_link" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME-202124?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
+    </a>
+    <a href="https://ameeenmv.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/ameeenmv" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:ameeenmv@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  <img src="https://komarev.com/ghpvc/?username=ameenmv&label=PROFILE%20VIEWS&color=42b883&style=flat-square" alt="AMEEN MOHAMED" />
+</div>
+
+---
+
+###  About Me
+-  I’m currently working as a **Frontend Developer at neop**, focusing on Vue.js and Nuxt.js.
+-  CS Student at **Mansoura University**, focusing on Software Engineering.
+-  **Leadership**: Serving as **Frontend Head @CIS Team** and **Frontend Vice Head @CAT Reloaded**.
+
+---
+
+### 💻 Tech Stack
+
+#### 🌐 Frontend Mastery
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,tailwind,sass,bootstrap,html,css" height="40" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Nuxt_UI-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Vuelidate-42b883?style=flat-square" height="25" />
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" />
+</div>
+
+#### ⚙️ Backend & Database
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postman" height="40" alt="Backend" />
+  <img src="https://img.shields.io/badge/Web_Services_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Twig-8CA1AF?style=flat-square&logo=symfony&logoColor=white" height="25" />
+</div>
+
+#### 🧪 Data Science & AI
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,sklearn" height="40" alt="Data Science" />
+  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat-square" height="25" />
+</div>
+
+#### 🛠️ Professional Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vite,figma,ubuntu" height="40" alt="Tools" />
+</div>
+
+---
+
+### 🧠 Computer Science Fundamentals
+<div align="center">
+  <img src="https://img.shields.io/badge/Data_Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithms-Advanced-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-Critical-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-Math-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-Core-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Development-Lifecycle-brightgreen?style=for-the-badge" />
+</div>
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+<div align="center">
+  <p><i>“The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”</i></p>
+</div>
