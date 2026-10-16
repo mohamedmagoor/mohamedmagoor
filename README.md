@@ -15,16 +15,16 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1IkGQcLYoivWgMAX8P-boE9UjRgwxQc7n/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledrive&logoColor=00D9FF" alt="Resume" />
+    <img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
+  <a href="https://www.magoor.online/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-magoor/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uNzEgMS42MzctMi4xNDcgMy4zNy0yLjE0NyAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uNzEgMS42MzctMi4xNDcgMy4zNy0yLjE0NyAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedmagoor6@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
   <a href="https://github.com/mohamedmagoor?tab=followers">
     <img src="https://img.shields.io/github/followers/mohamedmagoor?label=Followers&style=flat-square&logo=github&color=7F5AF0" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mohamedmagoor&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile views" />
+  <img src="https://hits.sh/github.com/mohamedmagoor.svg?label=Profile%20Views&color=A855F7&style=flat-square&logo=github" alt="Profile views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -40,7 +40,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="wave" /> About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" />
+<img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Coding" />
 
 - 💼 **Full-Stack Software Engineer at Azzrk**, shipping features from the database all the way to the UI.
 - ⚛️ **Frontend:** React 19, Next.js, TypeScript and Tailwind CSS.
@@ -48,6 +48,7 @@
 - 🗺️ Currently building complex **GIS applications** with **React 19** and the **ArcGIS Maps SDK**.
 - 🎓 **BIS student** at **Tanta University**.
 - 📜 **ITI graduate**, Cross-Platform & Frontend Development track.
+- 🌐 Portfolio: **[magoor.online](https://www.magoor.online/)**
 - 📫 Reach me at **mohamedmagoor6@gmail.com**.
 
 <br clear="right" />
@@ -67,6 +68,7 @@ async def about_me() -> dict:
         "backend": ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "Pydantic"],
         "currently_building": "GIS apps with React 19 & ArcGIS Maps SDK",
         "education": ["BIS @ Tanta University", "ITI Graduate"],
+        "portfolio": "https://www.magoor.online",
         "motto": "Ship fast, scale smart 🚀",
     }
 ```
@@ -90,7 +92,7 @@ async def about_me() -> dict:
       <img src="https://skillicons.dev/icons?i=python,fastapi,flask&theme=dark" alt="Backend" /><br/>
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
       <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-      <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
       <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
       <img src="https://img.shields.io/badge/Twig-8CA1AF?style=flat-square&logo=symfony&logoColor=white" alt="Twig" />
@@ -121,14 +123,14 @@ async def about_me() -> dict:
 ### 🧠 Computer Science Fundamentals
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Structures-0D1117?style=for-the-badge&logo=databricks&logoColor=00D9FF" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-0D1117?style=for-the-badge&logo=thealgorithms&logoColor=A855F7" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="OOP" />
-  <img src="https://img.shields.io/badge/Design_Patterns-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=FF6B6B" alt="Design Patterns" />
-  <img src="https://img.shields.io/badge/Database_Design-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="Database Design" />
-  <img src="https://img.shields.io/badge/Operating_Systems-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/Linear_Algebra-0D1117?style=for-the-badge&logo=wolframmathematica&logoColor=DD1100" alt="Linear Algebra" />
-  <img src="https://img.shields.io/badge/SDLC-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="SDLC" />
+  <img src="https://img.shields.io/badge/Data_Structures-21262D?style=for-the-badge&logo=databricks&logoColor=00D9FF" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-21262D?style=for-the-badge&logo=thealgorithms&logoColor=A855F7" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-21262D?style=for-the-badge&logo=python&logoColor=FFD43B" alt="OOP" />
+  <img src="https://img.shields.io/badge/Design_Patterns-21262D?style=for-the-badge&logo=diagramsdotnet&logoColor=FF6B6B" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/Database_Design-21262D?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Operating_Systems-21262D?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-21262D?style=for-the-badge&logo=wolframmathematica&logoColor=DD1100" alt="Linear Algebra" />
+  <img src="https://img.shields.io/badge/SDLC-21262D?style=for-the-badge&logo=git&logoColor=F05032" alt="SDLC" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -137,20 +139,16 @@ async def about_me() -> dict:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedmagoor&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&ring_color=7F5AF0" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mohamedmagoor&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="170" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmagoor&theme=github_dark&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=A855F7&chart_color=A855F7&border_color=30363D&animation=draw" width="98.5%" alt="Contribution summary" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedmagoor&hide_border=true&background=0D1117&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedmagoor&theme=github_dark&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D&animation=load" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedmagoor&theme=github_dark&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D&animation=load" width="49%" alt="Top languages by commit" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmagoor&theme=github_dark" width="100%" alt="Contribution summary" />
+  <img src="https://streak-stats.demolab.com?user=mohamedmagoor&background=0D1117&border=30363D&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" width="98.5%" alt="GitHub streak" />
 </div>
 
 <br/>
