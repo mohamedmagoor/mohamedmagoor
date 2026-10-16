@@ -40,38 +40,15 @@
 <!-- ===================== ABOUT ===================== -->
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="wave" /> About Me
 
-<img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Coding" />
+<div align="center">
+  <a href="https://www.magoor.online/" target="_blank">
+    <img src="./assets/about-me.svg" width="100%" alt="Mohamed Magoor: Full-Stack Software Engineer at Azzrk. Frontend: React 19, Next.js, TypeScript. Backend: FastAPI, Python, PostgreSQL. Currently building GIS applications with React 19 and the ArcGIS Maps SDK. BIS student at Tanta University and ITI graduate." />
+  </a>
+</div>
 
-- 💼 **Full-Stack Software Engineer at Azzrk**, shipping features from the database all the way to the UI.
-- ⚛️ **Frontend:** React 19, Next.js, TypeScript and Tailwind CSS.
-- ⚡ **Backend:** high-performance REST APIs with **FastAPI**, **Python** and **PostgreSQL**.
-- 🗺️ Currently building complex **GIS applications** with **React 19** and the **ArcGIS Maps SDK**.
-- 🎓 **BIS student** at **Tanta University**.
-- 📜 **ITI graduate**, Cross-Platform & Frontend Development track.
-- 🌐 Portfolio: **[magoor.online](https://www.magoor.online/)**
-- 📫 Reach me at **mohamedmagoor6@gmail.com**.
-
-<br clear="right" />
-
-```python
-from fastapi import FastAPI
-
-app = FastAPI(title="Mohamed Magoor")
-
-
-@app.get("/about")
-async def about_me() -> dict:
-    return {
-        "role": "Full-Stack Software Engineer",
-        "company": "Azzrk",
-        "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
-        "backend": ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "Pydantic"],
-        "currently_building": "GIS apps with React 19 & ArcGIS Maps SDK",
-        "education": ["BIS @ Tanta University", "ITI Graduate"],
-        "portfolio": "https://www.magoor.online",
-        "motto": "Ship fast, scale smart 🚀",
-    }
-```
+<p align="center">
+  <sub>💡 Click the card to visit my portfolio at <a href="https://www.magoor.online/"><b>magoor.online</b></a> · 📫 <a href="mailto:mohamedmagoor6@gmail.com">mohamedmagoor6@gmail.com</a></sub>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
